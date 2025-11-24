@@ -10,8 +10,8 @@
    [[Manual de Protocolo de Emergencia y Evacuación](https://docs.google.com/document/d/12ndajSYoCPW9r0DOOizp7DAnkLrdqqO0zEBxFzAlba0/edit?tab=t.0#heading=h.3i6po2jh0q5m)]
    
    ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
-   [[Control Indice de Accidentes e Incidentes](https://docs.google.com/spreadsheets/d/1gYS4RAZzrB4sfhkVR2VBd3A0c8OU6Gajwdg-5wzIWiY/edit?gid=0#gid=0)]
+   [[https://docs.google.com/spreadsheets/d/17J777oPtlYyF3uhk4BLCR7oAE2LPdUMqAqQ5B9KRmNY/edit?gid=0#gid=0]
    
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
-   [[Presentaciones](https://docs.google.com/spreadsheets/d/1gYS4RAZzrB4sfhkVR2VBd3A0c8OU6Gajwdg-5wzIWiY/edit?usp=sharing)]
+   [[[Presentaciones](https://docs.google.com/spreadsheets/d/1gYS4RAZzrB4sfhkVR2VBd3A0c8OU6Gajwdg-5wzIWiY/edit?gid=687471572#gid=687471572))]
    
